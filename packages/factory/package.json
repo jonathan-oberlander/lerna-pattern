@@ -1,0 +1,8 @@
+{
+  "name": "@patterns/factory",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "tsnd --respawn factory.ts",
+    "build": "tsc"
+  }
+}

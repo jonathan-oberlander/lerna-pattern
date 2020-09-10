@@ -1,0 +1,7 @@
+{
+  "name": "@patterns/decorator",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "tsnd --respawn decorator.ts"
+  }
+}
