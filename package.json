@@ -18,5 +18,8 @@
   "scripts": {
     "build": "lerna exec --parallel -- tsc ",
     "bootstrap": "lerna bootstrap --use-workspaces"
-  }
+  },
+  "license": "MIT",
+  "private": true,
+  "dependencies": {}
 }
