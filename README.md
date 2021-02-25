@@ -1,2 +1,2 @@
 # lerna-pattern
-learning Lerna with design patterns and typescript
+Mono repo Lerna setup with design patterns written in typescript
